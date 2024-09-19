@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "expo-template-default",
+    "name": "ThalirConnect",
+    "slug": "thalirconnect",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.veloxine.thalirconnect"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.veloxine.thalirconnect"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +33,18 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ceef1d31-c1cc-4a88-bdba-e6027ec69124"
+      }
+    },
+    "owner": "veloxine",
+    "updates": {
+      "url": "https://u.expo.dev/ceef1d31-c1cc-4a88-bdba-e6027ec69124"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
     }
   }
 }
