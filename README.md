@@ -77,4 +77,4 @@ Stay tuned for more updates and help us grow ThalirConnect into a powerful tool 
 
 ---
 
-Feel free to customize this to better fit your vision!
+Development by [Kaushik](https://www.instagram.com/kaushikieee/) and [Hrithik](https://www.instagram.com/__hrithik_b__/)
