@@ -1,50 +1,80 @@
-# Welcome to your Expo app 👋
+# 🌱 ThalirConnect
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**ThalirConnect** is an innovative and easy-to-use app designed to provide remote control and safety features for children and elderly users through familiar chat platforms like **Telegram**. The app allows caregivers to send commands via a messaging bot to another device, enabling a variety of actions such as location sharing, media control, and safety features. 🚀
 
-## Get started
+### 🔨 Under Active Development
+ThalirConnect is still a work in progress, and we are constantly adding new and exciting features to enhance the experience for both everyday users and those they care for. Stay tuned for frequent updates! 💡
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🌟 Features (Coming Soon!)
 
-2. Start the app
+- **Real-Time Location Sharing** 📍  
+  Send a simple command via Telegram, and instantly receive the exact location of the device on a map!
 
-   ```bash
-    npx expo start
-   ```
+- **Emergency Call** 📞  
+  With a single command (e.g., `callme`), the kid/elder's device will automatically initiate a call to the caregiver's phone.
 
-In the output, you'll find options to open the app in a
+- **Media Control** 🎶  
+  Play, pause, or control media (like audiobooks or calming music) remotely through Telegram commands.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- **App Launcher** 🚀  
+  Remotely open an application on the child/elder's device, making it easier to guide them without physical access.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **Geofencing Alerts** 🚧  
+  Set safe zones, and be alerted if the user moves outside a predefined area.
 
-## Get a fresh project
+- **Panic Button Integration** 🆘  
+  A panic command that allows the user to send an immediate SOS alert along with their location to the designated contact.
 
-When you're ready, run:
+- **Daily Routine Reminders** 🛎️  
+  Automatically remind users about medication, exercise, or appointments.
 
-```bash
-npm run reset-project
-```
+- **Battery Status Notification** 🔋  
+  Get notified when the device's battery is running low, so you can remind the user to charge it.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 🔒 Secure Login via Telegram
 
-To learn more about developing your project with Expo, look at the following resources:
+To ensure the privacy and safety of our users, ThalirConnect implements a **login-based system**:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+1. **Unique Code** Generation: When the app is installed on the child/elder's device, it generates a unique login code.
+2. **Secure Login**: The caregiver enters the unique code into their device via Telegram to establish a secure connection.
+3. **Protected Access**: Only the linked device can send and receive commands, keeping the user's data safe.
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 📈 Future Enhancements
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+We're constantly brainstorming and adding new features to improve ThalirConnect, including:
+
+- **Health Monitoring**: Integration with health tracking devices to monitor vitals remotely.
+- **Fall Detection**: Automatically notify caregivers in case of a detected fall.
+- **Photo Capture on Command**: Remotely take a picture from the user’s device camera.
+- **Scheduled Check-ins**: Automated daily or weekly wellness check-ins, where users can confirm they’re okay.
+
+---
+
+## 🤝 How to Contribute
+
+ThalirConnect is still in development, and contributions are welcome! Whether you're a developer, designer, or tester, feel free to contribute and help make this app even better. 🌿
+
+---
+
+## 📅 Roadmap
+
+- ✅ **Basic Command System**
+- ✅ **Telegram Bot Integration**
+- 🚧 **Login & Authorization**
+- 🚧 **Real-Time Location Sharing**
+- 🚧 **Media Controls**
+- 🚧 **Geofencing Alerts**
+
+---
+
+Stay tuned for more updates and help us grow ThalirConnect into a powerful tool for safeguarding the people you care about. 🌸
+
+---
+
+Feel free to customize this to better fit your vision!
