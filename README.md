@@ -60,6 +60,8 @@ We're constantly brainstorming and adding new features to improve ThalirConnect,
 
 ThalirConnect is still in development, and contributions are welcome! Whether you're a developer, designer, or tester, feel free to contribute and help make this app even better. 🌿
 
+Email us at (thalirconnect@gmail.com)
+
 ---
 
 ## 📅 Roadmap
