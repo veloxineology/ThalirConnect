@@ -5,7 +5,8 @@
 ### 🔨 Under Active Development
 ThalirConnect is still a work in progress, and we are constantly adding new and exciting features to enhance the experience for both everyday users and those they care for. Stay tuned for frequent updates! 💡
 ---
-### Best Innovation Award-winner at Thalir Technology and Science Expo - 2024 
+### Best Innovation Award-Winner at Thalir Technology and Science Expo National Round - 2024
+### Best Innovation Award-winner at Thalir Technology and Science Expo Preliminary Round - 2024 
 ### Represented as an alternative to traditional care taking + monitoring devices
 ### Custom Kernel Used to test and execute functions when a specific command is sent from a verified contact via WhatsApp attached along with a unique code. 
 ---
@@ -70,11 +71,11 @@ Email us at (thalirconnect@gmail.com)
 ## 📅 Roadmap
 
 - ✅ **Basic Command System**
-- ✅ **Telegram Bot Integration**
+- ✅ **Whatsapp Integration**
 - 🚧 **Login & Authorization**
-- 🚧 **Real-Time Location Sharing**
-- 🚧 **Media Controls**
-- 🚧 **Geofencing Alerts**
+- ✅ **Real-Time Location Sharing**
+- ✅ **Media Controls**
+- ✅ **Geofencing Alerts**
 
 ---
 
