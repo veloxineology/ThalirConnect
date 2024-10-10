@@ -39,12 +39,12 @@ ThalirConnect is still a work in progress, and we are constantly adding new and 
 
 ---
 
-## 🔒 Secure Login via Telegram
+## 🔒 Secure Login via Whatsapp/Telegram (Coming Soon)
 
 To ensure the privacy and safety of our users, ThalirConnect implements a **login-based system**:
 
 1. **Unique Code** Generation: When the app is installed on the child/elder's device, it generates a unique login code.
-2. **Secure Login**: The caregiver enters the unique code into their device via Telegram to establish a secure connection.
+2. **Secure Login**: The caregiver enters the unique code into their device via Telegram/Whatsapp to establish a secure connection.
 3. **Protected Access**: Only the linked device can send and receive commands, keeping the user's data safe.
 
 ---
